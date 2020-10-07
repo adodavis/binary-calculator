@@ -27,7 +27,6 @@ function showResult() {
 
     let operand1 = parseInt(operands[0], 2);
     let operand2 = parseInt(operands[1], 2);
-    console.log(operand1 + operator + operand2);
 
     let result;
 
